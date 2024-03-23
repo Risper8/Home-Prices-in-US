@@ -1,7 +1,5 @@
-# AICE TECHNICAL TASK
-
+# US HOME PRICES
 ## Overview
-This repository comprises analysis and modeling efforts for the AICE assessment.
 
 The project's objective was to investigate and develop models based on datasets concerning home prices in the USA spanning the last two decades.
 
