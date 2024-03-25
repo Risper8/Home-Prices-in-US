@@ -1,7 +1,7 @@
 # US HOME PRICES
 ## Overview
 
-The project's objective was to investigate and develop models based on datasets concerning home prices in the USA spanning the last two decades.
+This project's objective is to investigate and develop a model based on datasets concerning home prices in the USA spanning the last two decades.
 
 ## Contents
 
@@ -22,7 +22,7 @@ The project's objective was to investigate and develop models based on datasets 
 
 * Modeling: Several machine learning models were trained and evaluated.
 
-* Model Evaluation: Model performance metrics such as accuracy, precision, recall, and F1-score were calculated to assess model performance.
+* Model Evaluation: Model performance metrics such as r-squared, Mean Absolute Error, and Mean Squared Error were calculated to assess model performance.
 
 * Model Interpretation: The most important features contributing to model predictions were identified.
 
