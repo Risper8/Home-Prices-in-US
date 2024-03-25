@@ -5,7 +5,7 @@ This project's objective is to investigate and develop a model based on datasets
 
 ## Contents
 
- **US_dataset.csv:** This file comprises the original datasets utilized in the analysis.
+ **US_dataset.csv:** This file comprises the dataset utilized in the analysis.
 
 **data preparation.ipynb:** This notebook encompasses data extraction and integration procedures.
 
